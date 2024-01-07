@@ -1,0 +1,46 @@
+{
+    "Bot": {
+      "token": "",
+      "saveLogs": "True",
+      "logsFileName": "logs",
+      "serverId": ""
+    },
+    "RaidOptions": {
+      "webRaid": {
+        "tagEveryone": "True",
+        "tagHere": "True",
+        "message": "",
+        "channelName": "",
+        "deleteAllChannels": "True",
+        "banAllBots": "True"
+      },
+      "dmRaid": {
+        "tagPerson": "True",
+        "message": ""
+      },
+      "nukeServer": {
+        "removeServerIcon": "True",
+        "changeServerName": "True",
+        "serverName": "",
+        "deleteAllChannels": "True",
+        "deleteAllRoles": "True",
+        "deleteAllEmojis": "True",
+        "deleteAllWebhooks": "True",
+        "deleteAllInvites": "True",
+        "removeAllBans": "True",
+        "banAllMembers": "True",
+        "banMessage": ""
+      },
+      "roleRaid": {
+        "createRoles": "True",
+        "roleCount": "1",
+        "applyToEveryone": "True",
+        "roleName": "",
+        "roleColor": "2F329F",
+        "roleHoist": "True",
+        "roleMentionable": "True",
+        "roleMute": "True",
+        "deleteAllRoles": "True"
+      }
+    }
+}
