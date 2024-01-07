@@ -3,6 +3,7 @@
 
 ---
 
+## Description
 <p align="center">P0rtal stands as an open-source and freely accessible tool enabling you to execute nuke and raid actions through a dedicated Discord bot.</p>
 
 ## Table of Contents
